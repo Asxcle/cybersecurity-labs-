@@ -6,7 +6,7 @@
 
 ## Topologia
 
-![Topologia da Rede](topobolia-basica.png)
+![Topologia da Rede](topologia-basica.png)
 
 **Descrição**
 - 1 Roteador (R1)
