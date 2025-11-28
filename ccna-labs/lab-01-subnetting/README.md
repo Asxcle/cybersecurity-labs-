@@ -6,9 +6,14 @@
 
 ## Topologia
 
+![Topologia da Rede](topobolia-basica.png)
+
 **Descrição**
-- 2 Roteadores (R1 e R2)
-- 2 PCs (1 em cada sub-rede)
+- 1 Roteador (R1)
+- 1 PC
 - Rede base: 192.168.1.0/24
 
 ## Requisitos do Lab
+
+### Cenário
+Uma casa x precisa conectar seu PC em um roteador 
