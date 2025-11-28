@@ -6,7 +6,7 @@
 
 ## Topologia
 
-![Uploading image.png…]()
-
-
 **Descrição**
+- 2 Roteadores (R1 e R2)
+- 2 PCs (1 em cada sub-rede)
+- Rede base: 192.168.1.0/24
